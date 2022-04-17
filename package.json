@@ -17,7 +17,7 @@
     "uuid": "^8.3.2"
   },
   "engines": {
-    "node": "14.x"
+    "node": "16.x"
   },
   "devDependencies": {
     "dotenv": "^16.0.0",
