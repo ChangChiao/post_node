@@ -1,0 +1,32 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "fix": "eslint --fix **/*.js",
+    "lint": "eslint **/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.10",
+    "uuid": "^8.3.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "eslint": "^8.13.0",
+    "husky": "^7.0.0",
+    "lint-staged": "^12.3.7"
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix"
+  }
+}
+
