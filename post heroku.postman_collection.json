@@ -11,13 +11,16 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "{{post-heroku}}/posts/625bb944cb8678e07928b0f3",
+					"raw": "https://cryptic-lake-28001.herokuapp.com/posts/62636e2834c03860bd19fab0",
+					"protocol": "https",
 					"host": [
-						"{{post-heroku}}"
+						"cryptic-lake-28001",
+						"herokuapp",
+						"com"
 					],
 					"path": [
 						"posts",
-						"625bb944cb8678e07928b0f3"
+						"62636e2834c03860bd19fab0"
 					]
 				}
 			},
@@ -29,9 +32,12 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "{{post-heroku}}/posts",
+					"raw": "https://cryptic-lake-28001.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"{{post-heroku}}"
+						"cryptic-lake-28001",
+						"herokuapp",
+						"com"
 					],
 					"path": [
 						"posts"
@@ -55,9 +61,12 @@
 					}
 				},
 				"url": {
-					"raw": "{{post-heroku}}/posts",
+					"raw": "https://cryptic-lake-28001.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"{{post-heroku}}"
+						"cryptic-lake-28001",
+						"herokuapp",
+						"com"
 					],
 					"path": [
 						"posts"
@@ -72,9 +81,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{post-heroku}}/posts",
+					"raw": "https://cryptic-lake-28001.herokuapp.com/posts",
+					"protocol": "https",
 					"host": [
-						"{{post-heroku}}"
+						"cryptic-lake-28001",
+						"herokuapp",
+						"com"
 					],
 					"path": [
 						"posts"
@@ -98,13 +110,16 @@
 					}
 				},
 				"url": {
-					"raw": "{{post-heroku}}/posts/625bd322cb292586e4c048ba",
+					"raw": "https://cryptic-lake-28001.herokuapp.com/posts/62636e2834c03860bd19fab0",
+					"protocol": "https",
 					"host": [
-						"{{post-heroku}}"
+						"cryptic-lake-28001",
+						"herokuapp",
+						"com"
 					],
 					"path": [
 						"posts",
-						"625bd322cb292586e4c048ba"
+						"62636e2834c03860bd19fab0"
 					]
 				}
 			},
