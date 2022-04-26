@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "32bdb9e6-4985-44ca-a5ff-d35df8f9dfef",
+		"_postman_id": "75a07768-135d-4297-b3bd-eaf08c02f359",
 		"name": "post heroku",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -11,10 +11,10 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://cryptic-lake-28001.herokuapp.com/posts/62636e2834c03860bd19fab0",
+					"raw": "https://rocky-fjord-11337.herokuapp.com/posts/62636e2834c03860bd19fab0",
 					"protocol": "https",
 					"host": [
-						"cryptic-lake-28001",
+						"rocky-fjord-11337",
 						"herokuapp",
 						"com"
 					],
@@ -32,10 +32,10 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://cryptic-lake-28001.herokuapp.com/posts",
+					"raw": "https://rocky-fjord-11337.herokuapp.com/posts",
 					"protocol": "https",
 					"host": [
-						"cryptic-lake-28001",
+						"rocky-fjord-11337",
 						"herokuapp",
 						"com"
 					],
@@ -61,10 +61,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cryptic-lake-28001.herokuapp.com/posts",
+					"raw": "https://rocky-fjord-11337.herokuapp.com/posts",
 					"protocol": "https",
 					"host": [
-						"cryptic-lake-28001",
+						"rocky-fjord-11337",
 						"herokuapp",
 						"com"
 					],
@@ -81,10 +81,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://cryptic-lake-28001.herokuapp.com/posts",
+					"raw": "https://rocky-fjord-11337.herokuapp.com/posts",
 					"protocol": "https",
 					"host": [
-						"cryptic-lake-28001",
+						"rocky-fjord-11337",
 						"herokuapp",
 						"com"
 					],
@@ -110,10 +110,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cryptic-lake-28001.herokuapp.com/posts/62636e2834c03860bd19fab0",
+					"raw": "https://rocky-fjord-11337.herokuapp.com/posts/62636e2834c03860bd19fab0",
 					"protocol": "https",
 					"host": [
-						"cryptic-lake-28001",
+						"rocky-fjord-11337",
 						"herokuapp",
 						"com"
 					],
